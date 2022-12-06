@@ -32,6 +32,16 @@
       institution: KPMG, Pakistan
       year: 2016-2017
 
+- title: Manuscripts submitted for publication or in prepapration
+  type: time_table
+  contents:
+    - title: DADA
+      institution: DADA
+      year: 2015
+    - title: DAAD
+      institution: DAAD
+      year: 2016-2017
+
 
 - title: Certifications
   type: time_table
