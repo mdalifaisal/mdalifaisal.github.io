@@ -43,10 +43,9 @@
 - title: Manuscripts submitted for publication or in preparation
   type: time_table
   contents:
-      -title: Spot and future asset prices: A Cross-Convergent mapping approach
-      description: under-preparation
-      year: 2023
-      
+      - title: Spot and future asset prices: A Cross-Convergent mapping approach
+        year: 2023
+        description: underpreparation
 
 - title: Academic Interests
   type: nested_list
