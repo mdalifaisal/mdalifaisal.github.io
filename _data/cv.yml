@@ -53,7 +53,11 @@
   type: time_table
   contents:
     - title: CELTA
+      institution: University of Cambridge
+      year: 
     - title: TOEFL
+      institution: ETS
+      year: 
         
 
 - title: Academic Interests
