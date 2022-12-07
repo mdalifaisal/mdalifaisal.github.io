@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.okan.edu.tr/en/'>Department of Business Administration</a>. Istanbul, Turkey.
+subtitle: <a href='https://www.okan.edu.tr/en/'>Department of Business Administration, Okan Univeristy</a>. Istanbul, Türkiye.
 
 profile:
   align: right
