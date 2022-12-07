@@ -52,10 +52,9 @@
 - title: Certifications
   type: time_table
   contents:
-      items: 
-        - CELTA 
-        - TOEFL
-
+    - title: CELTA
+    - title: TOEFL
+        
 
 - title: Academic Interests
   type: nested_list
