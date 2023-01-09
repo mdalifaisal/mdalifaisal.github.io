@@ -2,7 +2,7 @@
 layout: post
 title:  Banking system Z-score for selected European economies
 date: 2022-01-08 21:00:00
-description: this is what included images could look like
+description: this is a test post
 tags: r-plot financial economics
 categories: sample-posts
 ---
@@ -10,11 +10,3 @@ It is possible that the Z-scores of some European banks have improved in spite o
 
 In general, it is important to monitor the financial stability of the banking system in a particular country, as a financial crisis in one country can have ripple effects throughout the region.
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/z-score.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
