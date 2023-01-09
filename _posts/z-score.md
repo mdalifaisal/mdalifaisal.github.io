@@ -9,3 +9,12 @@ categories: sample-posts
 It is possible that the Z-scores of some European banks have improved in spite of the COVID-19 pandemic. This could be due to a variety of factors, such as supportive regulatory measures, strong capital levels, and good asset quality. However, it is also possible that the Z-scores of some European banks have declined due to the impact of the pandemic on their profitability and asset quality.
 
 In general, it is important to monitor the financial stability of the banking system in a particular country, as a financial crisis in one country can have ripple effects throughout the region.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/z-score.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
