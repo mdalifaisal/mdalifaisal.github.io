@@ -3,7 +3,7 @@ layout: post
 title:  Banking system Z-score for selected European economies
 date: 2022-01-08 21:00:00
 description: this is what included images could look like
-tags: formatting images
+tags: r-plot financial economics
 categories: sample-posts
 ---
 It is possible that the Z-scores of some European banks have improved in spite of the COVID-19 pandemic. This could be due to a variety of factors, such as supportive regulatory measures, strong capital levels, and good asset quality. However, it is also possible that the Z-scores of some European banks have declined due to the impact of the pandemic on their profitability and asset quality.
