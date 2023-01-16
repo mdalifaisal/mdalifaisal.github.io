@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  Z-ing in the right direction? A closer look at the European banking system's stability 
-date: 2022-01-08 21:00:00
+date: 2022-01-16 18:00:00
 description: blog on z-score
 tags: r-plot financial economics
-categories: sample-posts
+categories: finance-posts
 ---
 If there is one measure that we can trust to give us an overall risk situation of the banking operations, arguably it'd be the z-score. Primarily, it is due to the fact that its calculation reflects profit and equity rather than just loan book items. In this short blog, we will try to cover the basic premise of the concept at the micro level. How it can provide us a larger picture of an economy's banking system? And finally, what insights we can obtain by observing the z-score of European banks before and after the global pandemic?
 
@@ -55,7 +55,7 @@ This blog was just an attempt to provide some instincts. For analysing a commerc
 In addition, while we all know the advantage EU region has over other economies in terms of having connected markets. There is always some risk involved as financial crisis in one country can have ripple effects throughout the region.
 
 
-[^1]: For the complete table please see [Altman, 2018](https://www.mdpi.com/2227-7072/6/3/70)
+[^1]: For the complete details & table please see [Altman, 2018](https://www.mdpi.com/2227-7072/6/3/70)
 
 
 **_Disclaimer:_** All views are personal and do not represent those of any institutions.   
