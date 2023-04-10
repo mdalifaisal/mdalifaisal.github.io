@@ -3,7 +3,7 @@ layout: post
 title:  Can we catch the uncatchable? An attempt to capture Turkish Lira's hypervolatility! 
 date: 2023-04-10 18:00:00
 description: blog on lira's volatility
-tags: r-plot finance economics econometrics
+tags: r-plot econometrics
 categories: finance-posts
 ---
 
