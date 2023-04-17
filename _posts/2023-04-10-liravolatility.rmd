@@ -13,6 +13,6 @@ categories: finance-posts
 ---
 
 
-<iframe src="https://<mdalifaisal>.github.io/<blogs>/<_cloud_project_graph>.html" width="100%" height="500px"></iframe>
+<iframe src="https://<mdalifaisal>.github.io/<blogs>/<saved_resource(1)>.html" width="100%" height="500px"></iframe>
 
 
