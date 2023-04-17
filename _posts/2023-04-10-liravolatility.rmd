@@ -9,10 +9,4 @@ categories: finance-posts
 
 Very few exchange rates have experienced what Turkish lira has been through in the past 5 years. 
 
-This is a test post
-This is a test post
-This is a test post
-This is a test post
-This is a test post
-This is a test post
-This is a test post
+This is a post
