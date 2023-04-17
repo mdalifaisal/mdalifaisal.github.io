@@ -13,7 +13,7 @@ categories: finance-posts
 ---
 
 <div>
-  <iframe src="https://github.com/mdalifaisal/mdalifaisal.github.io/blob/master/_posts/plotly.html" width="100%" height="400"></iframe>
+  <iframe src="https://raw.githubusercontent.com/mdalifaisal/mdalifaisal.github.io/master/_posts/plotly.html" width="100%" height="400"></iframe>
 </div>
 
 
