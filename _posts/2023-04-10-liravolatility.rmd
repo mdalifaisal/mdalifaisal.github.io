@@ -11,8 +11,8 @@ description: blog on lira's volatility
 tags: r-plot econometrics
 categories: finance-posts
 ---
+https://github.com/mdalifaisal/blogs/blob/main/lira/saved_resource(1).html
 
-
-<iframe src="https://<mdalifaisal>.github.io/<blogs>/<saved_resource(1)>.html" width="100%" height="500px"></iframe>
+<iframe src="https://github.com/mdalifaisal/blogs/blob/main/lira/saved_resource(1).html" width="100%" height="500px"></iframe>
 
 
