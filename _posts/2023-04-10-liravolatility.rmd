@@ -13,8 +13,6 @@ categories: finance-posts
 ---
 
 
-```{r, echo=FALSE,message=FALSE,warning=FALSE}
-source('lira_interactive.R')
-knitr::knit_print(fig)
+<iframe src="https://<mdalifaisal>.github.io/<blogs>/<_cloud_project_graph>.html" width="100%" height="500px"></iframe>
 
 
