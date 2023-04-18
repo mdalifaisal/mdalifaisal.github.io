@@ -20,7 +20,7 @@ In a future blog, I intend to cover the major theoretical and empirical models o
 As part of my study, I analyzed the volatility of Turkish lira through a set of different volatility models. 
 
 <div>
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~alishaikh1119/1.embed"></iframe>
+  <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~alishaikh1119/1.embed"></iframe>
 </div>
 
 **_Disclaimer:_** Some of the points highlighted in this blog are a part of the second chapter of my PhD dissertation and a paper that I have co-authored with my supervisor Prof. Dr. Murat Donduran of Yildiz Technical University.
