@@ -8,7 +8,7 @@ output:
     highlight: tango
     self_contained: false
 description: blog on the lira's volatility
-tags: r-plot econometrics
+tags: rplot econometrics finance
 categories: finance-posts
 ---
 
