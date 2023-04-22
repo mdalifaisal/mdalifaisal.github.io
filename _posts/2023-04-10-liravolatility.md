@@ -29,7 +29,7 @@ In the same paper, we modeled the Turkish lira's volatility with seven different
  <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/fig1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-      **Figure 1**
+      <figcaption align = "center"><b>Figure 1 - Models explaining variance</b></figcaption>
         </div>
 </div>
 
