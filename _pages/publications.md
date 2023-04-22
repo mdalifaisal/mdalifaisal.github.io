@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Manuscript of the studies under review are available (subject to respective journal's policy).
+description: Manuscript of the studies under review could be provided (subject to respective journal's policy).
 years: [2023, 2022, 2021]
 nav: true
 nav_order: 1
