@@ -18,6 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my personal website. I am a PhD candidate in the Department of Business Administration at <a href='https://www.okan.edu.tr/en/'>Istanbul Okan Univeristy</a>, pursuing a major in Finance. My research explores how assets within financial markets interact with each other. My current work focuses on the application of novel econometrical and machine learning techniques for the analysis of asset prices. I am on the job market for the 2022-2023 cycle.
+Welcome to my personal website. I am currently based in Istanbul, Turkey. I received my Ph.D. in Business Administration from the <a href='https://www.okan.edu.tr/en/'>Istanbul Okan Univeristy</a>(2018-2023). My research explores how assets within financial markets interact with each other. My current work focuses on novel econometrics and machine learning techniques for analyzing asset prices. I am also interested in exploring topics related to financial integration, dynamic time series analysis, portfolio management, and interdisciplinary topics encompassing finance, economics, and artificial intelligence. I am on the job market for the 2022-2023 cycle.
 
-I regularly code with R & Python for statistical analysis and data visualizations. I also posses basic knowledge of other programming languages such as Stata, MATLAB, LaTex, Markdown, HTML.
+I regularly code with R & Python for statistical analysis and data visualizations. I also possess basic knowledge of other programming languages such as Stata, MATLAB, LaTex, Markdown, and HTML.
