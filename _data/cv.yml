@@ -25,32 +25,41 @@
 - title: Industry experience
   type: time_table
   contents:
-    - title: Investment Associate
-      institution: AMIM, Pakistan
-      year: 2015
     - title: Executive Officer
       institution: KPMG, Pakistan
       year: 2016-2017
-
-- title: Manuscripts completed, in review, or under preparation
+    - title: Investment Associate
+      institution: AMIM, Pakistan
+      year: 2015
+    
+- title: Publications
   type: time_table
   contents:
+      - title: Two sides of the exchange rate equation. A mathematical realm
+      institution: Book
+      year: 2025
+    - title: A two-stage analysis of interaction between stock and exchange rate markets&#58; Evidence from Turkiye
+      institution: Authored with Prof. Murat Donduran of Yildiz Technical University (R&R at the journal&#58; <em>Annals of Data Science</em>)
+      year: 2023
+    - title: How much connection exists in currency futures? An empirical dive into higher moments
+      institution: Authored with Prof. Murat Donduran of Yildiz Technical University (R&R at the journal&#58; <em>Studies in Economic and Finance</em>)
+      year: 2023    
     - title: Analyzing credit and equity linkage within a dynamic causality paradigm
-      institution: under-review at the journal&#58; <em>The Journal of Fixed Income</em>
+      institution: under-review at the journal&#58; <em>Nonlinear Dynamics</em>
       year: 2023
     - title: Spot and future asset prices&#58; A convergent cross-mapping approach
       institution: under-preparation
       year: 2023
     - title: Turkish Lira’s volatility&#58; A novel perspective
       institution: Authored with Prof. Murat Donduran of Yildiz Technical University, Department of Economics (Journal&#58; <em>TBD</em>)
-      year: 2022
-    - title: A two-stage analysis of interaction between stock and exchange rate markets&#58; Evidence from Turkiye
-      institution: Authored with Prof. Murat Donduran of Yildiz Technical University (under review at the journal&#58; <em>Annals of Data Science</em>)
-      year: 2022
-    - title: How much connection exists in currency futures? An empirical dive into higher moments
-      institution: Authored with Prof. Murat Donduran of Yildiz Technical University (R&R at the journal&#58; <em>Studies in Economic and Finance</em>)
-      year: 2021
+      year: 2023
     
+- title: Projects
+  type: time_table
+  contents:
+    - title: Constructing Market Cyclicality Index (MCI)
+      institution: With Prof. Murat Donduran of Yildiz Technical University
+      year: 2024
 
 - title: Certifications
   type: time_table
