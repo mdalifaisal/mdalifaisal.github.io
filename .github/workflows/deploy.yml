@@ -24,8 +24,6 @@ jobs:
     - name: Install deps
       run: |
         npm install -g mermaid.cli
-    - run: |
-        bundle add webrick
     - name: Setup deploy options
       id: setup
       run: |
