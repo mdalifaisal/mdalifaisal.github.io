@@ -29,7 +29,7 @@ In the same paper, we modeled the Turkish lira's volatility with seven different
  <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/fig1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-      <figcaption align = "center"><b>Figure 1 - Models explaining variance</b></figcaption>
+      <figcaption align = "center"><b>Figure 1 - Models explaining variance of range based estimate</b></figcaption>
         </div>
 </div>
 
@@ -37,14 +37,14 @@ In the same paper, we modeled the Turkish lira's volatility with seven different
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/fig2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-      <figcaption align = "center"><b>Figure 2 - Models explaining variance</b></figcaption>
+      <figcaption align = "center"><b>Figure 2 - Models explaining variance of realized estimate</b></figcaption>
         </div>
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/fig3.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-      <figcaption align = "center"><b>Figure 3 - Models explaining variance</b></figcaption>
+      <figcaption align = "center"><b>Figure 3 - Models explaining variance of moving average estimate</b></figcaption>
         </div>
 </div>
 
