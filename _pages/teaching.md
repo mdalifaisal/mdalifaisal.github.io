@@ -2,17 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses being taught will appear in this section.
+description: Lecture slides are available upon request.
 nav: true
 nav_order: 5
 ---
 ---
-- title: Undergraduate level
+- Level: Undergraduate
   type: map
   contents:
-    - name: Business Research Methods
-- title: Graduate level
+    - Course title: Business Research Methods
+- Level: Graduate
   type: map
   contents:
-    - name: Mathematics for Economics and Finance
+    - Course title: Mathematics for Economics and Finance
 ---
