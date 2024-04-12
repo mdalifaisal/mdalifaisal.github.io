@@ -6,7 +6,7 @@ description: Materials for courses being taught will appear in this section.
 nav: true
 nav_order: 5
 ---
-
+---
 - title: Undergraduate level
   type: map
   contents:
@@ -15,3 +15,4 @@ nav_order: 5
   type: map
   contents:
     - name: Mathematics for Economics and Finance
+---
