@@ -25,8 +25,11 @@
   type: time_table
   contents:
     - title: Assistant Professor
+      institution: IOBM, Karachi, Pakistan
+      year: Sep 2024-
+    - title: Assistant Professor
       institution: SZABIST, Karachi, Pakistan
-      year: 2024-
+      year: Feb 2024-Aug 2024
 
 - title: Industry experience
   type: time_table
@@ -49,7 +52,7 @@
       year: 2024
     - title: Measuring the degree of connection between currency futures&#58; Empirical dive into higher moments
       institution: Authored with Prof. Murat Donduran of Yildiz Technical University (<em>Studies in Economic and Finance</em>)
-      year: 2023    
+      year: 2024   
     - title: Analyzing credit and equity linkage within a dynamic causality paradigm
       institution: under-review at the journal&#58; <em>Journal of Quantitative Economics</em>
 
@@ -65,7 +68,7 @@
   contents:
     - title: Constructing Market Cyclicality Index (MCI)
       institution: With Prof. Murat Donduran of Yildiz Technical University
-      year: 2024
+      year: 2025
 
 - title: Certifications
   type: time_table
