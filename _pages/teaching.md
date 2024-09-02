@@ -9,9 +9,9 @@ nav_order: 5
 ---
 
 - Level: Undergraduate
-    - Course title: Business Research Methods
-- Level: Graduate
-    - Course title: Mathematics for Economics and Finance
+    - Course titles: Business Research Methods, Financial Management, Introduction to Business Finance
+- Level: Graduate/PhD
+    - Course titles: Mathematics for Economics and Finance, Advanced Topics in Finance
  
 
 ---
